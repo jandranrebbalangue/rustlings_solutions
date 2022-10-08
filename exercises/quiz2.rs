@@ -50,7 +50,6 @@ mod my_module {
         string.trim().to_string()
     }
     fn append_bar(string:&str,count:usize)->String {
-        let bar_list:Vec<&str> = Vec::new();
         let mut result = String::from(string);
         for _ in 0..count {
             result+="bar"
