@@ -1,0 +1,1 @@
+/home/pandong/rust_practice/rustlings/target/release/rustlings: /home/pandong/rust_practice/rustlings/src/exercise.rs /home/pandong/rust_practice/rustlings/src/main.rs /home/pandong/rust_practice/rustlings/src/project.rs /home/pandong/rust_practice/rustlings/src/run.rs /home/pandong/rust_practice/rustlings/src/ui.rs /home/pandong/rust_practice/rustlings/src/verify.rs
