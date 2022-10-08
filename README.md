@@ -13,7 +13,7 @@
 - [x] Variables
 - [x] Vecs
 - [x] Quiz 1
-- [ ] Quiz 2
+- [x] Quiz 2
 - [ ] Clippy
 - [ ] Conversions
 - [ ] Error handling
